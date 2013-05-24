@@ -1,0 +1,74 @@
+
+#logo img{
+	width: 200px;
+	height: 80px;
+
+}
+header{
+	padding: 20px;
+}
+
+#paquetes{
+	margin-top: 70px;
+}
+#planes{
+	background:url(../images/fondo.png) repeat;
+	width: 15%;
+	height: 400px;
+	margin-left: 30px;
+	border-radius: 7px;
+	display: inline-block;
+	text-align: center;
+	color: #fff;
+	font-weight: bold;
+	border: 1px solid;
+}
+
+#planes2{
+	background:url(../images/fondo2.png) repeat;
+	width: 15%;
+	height: 400px;
+	margin-left: 30px;
+	border-radius: 7px;
+	display: inline-block;
+	text-align: center;
+	color: #fff;
+	font-weight: bold;
+	border: 1px solid;
+}
+#planes3{
+	background:url(../images/fondo3.png) repeat;
+	width: 15%;
+	height: 400px;
+	margin-left: 30px;
+	border-radius: 7px;
+	display: inline-block;
+	text-align: center;
+	color: #fff;
+	font-weight: bold;
+	border: 1px solid;
+}
+#planes4{
+	background:url(../images/fondo4.png) repeat;
+	width: 15%;
+	height: 400px;
+	margin-left: 30px;
+	border-radius: 7px;
+	display: inline-block;
+	text-align: center;
+	color: #fff;
+	font-weight: bold;
+	border: 1px solid;
+}
+#planes5{
+	background:url(../images/fondo5.png) repeat;
+	width: 15%;
+	height: 400px;
+	margin-left: 30px;
+	border-radius: 7px;
+	display: inline-block;
+	text-align: center;
+	color: #fff;
+	font-weight: bold;
+	border: 1px solid;
+}
