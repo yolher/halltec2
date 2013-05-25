@@ -12,7 +12,7 @@
 <body>
 <header>
 	<div id="top"></div>
-	<div id="logo"><img src="images/logo.png"></div>
+	<div id="logo"><img src="images/logo2.png"></div>
 </header>
 
 <section id="paquetes">
