@@ -1,11 +1,16 @@
 
+body{
+	background: #f3f3f3;
+}
+#top{
+	height: 30px;
+	background: #8f0100;
+}
 #logo img{
 	width: 200px;
 	height: 80px;
-
-}
-header{
 	padding: 20px;
+
 }
 
 #paquetes{
@@ -14,61 +19,160 @@ header{
 #planes{
 	background:url(../images/fondo.png) repeat;
 	width: 15%;
-	height: 400px;
-	margin-left: 30px;
+	height: 350px;
+	margin-left: 45px;
 	border-radius: 7px;
 	display: inline-block;
 	text-align: center;
 	color: #fff;
 	font-weight: bold;
 	border: 1px solid;
+padding-top: 20px;
+box-shadow: 0px 5px 10px #000, 0 0 0 10px 
+}
+#planes:hover{
+	background:#fff;
+
 }
 
 #planes2{
 	background:url(../images/fondo2.png) repeat;
 	width: 15%;
-	height: 400px;
-	margin-left: 30px;
+	height: 350px;
+	margin-left: 45px;
 	border-radius: 7px;
 	display: inline-block;
 	text-align: center;
 	color: #fff;
 	font-weight: bold;
 	border: 1px solid;
+padding-top: 20px;
+box-shadow: 0px 5px 10px #000, 0 0 0 10px 
 }
 #planes3{
 	background:url(../images/fondo3.png) repeat;
 	width: 15%;
-	height: 400px;
-	margin-left: 30px;
+	height: 350px;
+	margin-left: 45px;
 	border-radius: 7px;
 	display: inline-block;
 	text-align: center;
 	color: #fff;
 	font-weight: bold;
 	border: 1px solid;
+padding-top: 20px;
+box-shadow: 0px 5px 10px #000, 0 0 0 10px 
 }
 #planes4{
 	background:url(../images/fondo4.png) repeat;
 	width: 15%;
-	height: 400px;
-	margin-left: 30px;
+	height: 350px;
+	margin-left: 45px;
 	border-radius: 7px;
 	display: inline-block;
 	text-align: center;
 	color: #fff;
 	font-weight: bold;
 	border: 1px solid;
+padding-top: 20px;
+box-shadow: 0px 5px 10px #000, 0 0 0 10px 
 }
 #planes5{
-	background:url(../images/fondo5.png) repeat;
+	background:url(../images/fondo6.png) repeat;
 	width: 15%;
-	height: 400px;
-	margin-left: 30px;
+	height: 350px;
+	margin-left: 45px;
 	border-radius: 7px;
 	display: inline-block;
 	text-align: center;
 	color: #fff;
 	font-weight: bold;
 	border: 1px solid;
+	padding-top: 20px;
+	box-shadow: 0px 5px 10px #000, 0 0 0 10px 
 }
+
+#precio{
+	width: 15%;
+	margin-left: 45px;
+	border-radius: 7px;
+	display: inline-block;
+	color: #39444a;
+	font-weight: 400px;
+	font-size: 34px;
+	text-align: center;
+	vertical-align: top;
+	margin-top: 20px;
+}
+#precio2{
+	width: 15%;
+	margin-left: 45px;
+	border-radius: 7px;
+	display: inline-block;
+	color: #39444a;
+	font-weight: 400px;
+	font-size: 34px;
+	text-align: center;
+	vertical-align: top;
+	margin-top: 20px;
+}
+
+#precio3{
+	width: 15%;
+	margin-left: 45px;
+	border-radius: 7px;
+	display: inline-block;
+	color: #39444a;
+	font-weight: 400px;
+	font-size: 34px;
+	text-align: center;
+	vertical-align: top;
+	margin-top: 20px;
+}
+
+#precio4{
+	width: 15%;
+	margin-left: 45px;
+	border-radius: 7px;
+	display: inline-block;
+	color: #39444a;
+	font-weight: 400px;
+	font-size: 34px;
+	text-align: center;
+	vertical-align: top;
+	margin-top: 20px;
+}
+
+#precio5{
+	width: 15%;
+	margin-left: 45px;
+	border-radius: 7px;
+	display: inline-block;
+	color: #39444a;
+	font-weight: 400px;
+	font-size: 34px;
+	text-align: center;
+	vertical-align: top;
+	margin-top: 20px;
+}
+
+#clientes{
+	margin-top: 50px;
+	
+}
+#clientes span{
+	margin-left: 30px;
+	font-weight: 100px;
+	font-size:50px;
+	color: #8f0100;
+
+}
+
+.paginas{
+	width: 30%;
+	display: inline-block;
+	vertical-align: top;
+	margin-left: 30px;
+	margin-top: 40px;
+}
+
